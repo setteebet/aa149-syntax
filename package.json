@@ -1,0 +1,18 @@
+{
+  "name": "aa149-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "lottoออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"lottoออนไลน์",
+"เว็บแทงหวยหุ้นออนไลน์",
+"lottovip432",
+"ออนไลหวย",
+"หวยรัฐบาลสด"
+],
+  "repository": "https://github.com/setteebet/aa149-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
